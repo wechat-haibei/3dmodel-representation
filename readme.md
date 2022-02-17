@@ -11,6 +11,7 @@
 3. 我们通过[nginx](https://nginx.org/en/)进行服务器的部署配置
 
 如想了解我们的展示效果，请参阅我们的[网站链接](http://3dreconstruction.cn)。
+包含我们给出的点云与白模结果的代码文件请参阅[此处](https://pan.baidu.com/s/1phJdGIBuUiBdCoqAKq_OJQ?pwd=6pd7) (提取码：6pd7)。
 
 下面展示几张网站截图：
 ![首页](image/首页.png)
