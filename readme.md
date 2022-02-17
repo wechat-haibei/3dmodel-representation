@@ -62,7 +62,7 @@
     npm install
     npm start
     ```
-    浏览器中键入 http://localhost:8080(或其他终端所示地址) 即可浏览。
+    浏览器中键入 http://localhost:8080 (或其他终端所示地址) 即可浏览。
 2. 加载自定义模型：
     在上述页面中，通过`Examples`栏可浏览我们给出的建筑物白模。  
     如要加载自定义模型，请通过`File-Import`导入您的本地模型。  
