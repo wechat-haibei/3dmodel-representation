@@ -13,6 +13,7 @@
 如想了解我们的展示效果，请参阅我们的[网站链接](http://3dreconstruction.cn)。  
 包含我们给出的点云与白模结果的代码文件请参阅[此处](https://pan.baidu.com/s/1phJdGIBuUiBdCoqAKq_OJQ?pwd=6pd7) (提取码：6pd7)  
 我们的建筑物白模结果（prt与obj格式）请参阅[此处](https://pan.baidu.com/s/14J3iuM39wgbT678eyTQ7pA?pwd=et5i)。(提取码：et5i)
+白模结果的readme文档包含了白模整体及局部的效果截图，存放在项目的`白模`文件夹下，请参阅[此处]()
 
 下面展示几张网站截图：
 ![首页](image/首页.png)
