@@ -47,21 +47,21 @@
 
 （1 24号楼
 
-![24-1](./整体\24-1.png)
+![24-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/24-1.png)
 
-![24-2](./整体\24-2.png)
+![24-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/24-2.png)
 
 （2 19-20-21-22号楼
 
-![19-20-21-22-1](./整体\19-20-21-22-1.png)
+![19-20-21-22-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/19-20-21-22-1.png)
 
-![19-20-21-22-2](./整体\19-20-21-22-2.png)
+![19-20-21-22-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/19-20-21-22-2.png)
 
-![19-20-21-22-3](./整体\19-20-21-22-3.png)
+![19-20-21-22-3](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/19-20-21-22-3.png)
 
 （3 8号楼
 
-![08-1](./整体\08-1.png)
+![08-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/08-1.png)
 
-![08-2](./整体\08-2.png)
+![08-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E6%95%B4%E4%BD%93/08-2.png)
 
