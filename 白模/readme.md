@@ -21,23 +21,23 @@
 
 （1  24号楼
 
-![24-1](白模/局部\24-1.png)
+![24-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/24-1.png)
 
-![24-2](../局部\24-2.png)
+![24-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/24-2.png)
 
 （2 19-20-21-22号楼
 
-![19-20-21-22-1](./局部\19-20-21-22-1.png)
+![19-20-21-22-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/19-20-21-22-1.png)
 
-![19-20-21-22-2](./局部\19-20-21-22-2.png)![19-20-21-22-3](./局部\19-20-21-22-3.png)
+![19-20-21-22-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/19-20-21-22-2.png)![19-20-21-22-3](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/19-20-21-22-3.png)
 
-![19-20-21-22-5](./局部\19-20-21-22-5.png)
+![19-20-21-22-5](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/19-20-21-22-5.png)
 
-![19-20-21-22-6](./局部\19-20-21-22-6.png)
+![19-20-21-22-6](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/19-20-21-22-6.png)
 
 （3 8号楼
 
-![24-1](./局部\24-1.png)![24-2](./局部\24-2.png)
+![24-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/24-1.png)![24-2](./局部\24-2.png)
 
 #### 4.整体带边示意图
 
