@@ -37,7 +37,11 @@
 
 （3 8号楼
 
-![24-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/24-1.png)![24-2](./局部\24-2.png)
+![8-1](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/8-1.png)
+
+![8-2](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/8-2.png)
+
+![8-3](https://github.com/wechat-haibei/3dmodel-representation/blob/master/%E7%99%BD%E6%A8%A1/%E5%B1%80%E9%83%A8/8-3.png)
 
 #### 4.整体带边示意图
 
